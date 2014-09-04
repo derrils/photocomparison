@@ -1,0 +1,10 @@
+{
+	"name": "photocomparison",
+	"version": "0.0.1",
+	"description": "A simple photo comparison site",
+	"dependencies": {
+		"mime": "~1.2.7"
+	}
+}
+
+	
